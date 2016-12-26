@@ -1,0 +1,2 @@
+# AndroidJSCore.Xamarin
+AndroidJSCore.Xamarin
